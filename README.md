@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this lab, I wanted to show, just how vulnerable a computer can if it is not protected by a firewall. In this instance, I used an uBuntu server with minimum specs. The machine itself did not have a firewall. I also did not put it behind a network firewall, so that it would be completely exposed to neerdowells on the internet. This lab is showcasing the results in a graphical matter. In this lab we will:
+In this lab, I wanted to show, just how vulnerable a computer can be if it is not protected by a firewall. In this instance, I used an uBuntu server with minimum specs. The machine itself did not have a firewall. I also did not put it behind a network firewall, so that it would be completely exposed to neerdowells on the internet. This lab is showcasing the results in a graphical matter. In this lab we will:
 
 - Create 2 virtual machines in the cloud
 - Install Wazuh dashboard and install Wazuh agent
